@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "coffee-script": "^1.9.3",
+    "re": "^0.1.4",
+    "string": "^3.3.3",
     "through2": "^2.0.0"
   },
   "devDependencies": {

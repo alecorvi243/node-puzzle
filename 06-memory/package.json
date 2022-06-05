@@ -1,6 +1,12 @@
 {
   "dependencies": {
-    "coffee-script": "^1.9.3"
+    "async": "^3.2.3",
+    "coffee-script": "^1.9.3",
+    "event-stream": "^4.0.1",
+    "lazy": "^1.0.11",
+    "line-reader": "^0.4.0",
+    "n-readlines": "^1.0.1",
+    "node": "^17.7.2"
   },
   "devDependencies": {
     "mocha": "^2.2.5"
